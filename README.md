@@ -1,4 +1,4 @@
-# Ethereum Voting System
+# Solidity Voting Contract
 Ethereum Voting System is a simple, secure, and decentralized voting system powered by Ethereum smart contracts. It was built with Solidity, leveraging OpenZeppelin's safe math operations, and tested with Truffle.
 
 ## Getting Started
